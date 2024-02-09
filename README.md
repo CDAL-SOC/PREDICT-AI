@@ -2,6 +2,6 @@
 
 PeRsonalisEd Drug Identifier for Cancer Treatment with transformers using Auxiliary Information
 
-Run code by 
+Conda environment can be installed used `predict_ai.yml`
 
-`python main.py`
+Run the training and validation using `python main.py`
